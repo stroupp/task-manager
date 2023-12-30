@@ -35,5 +35,6 @@ After, open this link to open the app in development mode: http://localhost:3000
 
 Here is the main page of the app:
 
-![Alt text](src\images\Screenshot-1.jpg?raw=true "Title")
+![Screenshot-1](https://github.com/stroupp/task-manager/assets/69280409/9d6308b7-1542-41e5-8140-d173b80b2910)
+
 

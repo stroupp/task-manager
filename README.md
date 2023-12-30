@@ -35,4 +35,4 @@ After, open this link to open the app in development mode: http://localhost:3000
 
 Here is the main page of the app:
 
-![Logo](src/Screenshot-1.jpg)
+![Logo](C:\Users\owwma\Desktop\tubitak\task-manager\src\images\Screenshot-1.jpg)

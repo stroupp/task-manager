@@ -1,9 +1,9 @@
 # Task Manager
 
 ## Contact info
-Name: Serkan Bicer\n
-Mail: serkan_bicer38@hotmail.com\n
-Phone Number: +905412665130\n
+Name: Serkan Bicer  
+Mail: serkan_bicer38@hotmail.com  
+Phone Number: +905412665130
 
 ## Overview
 

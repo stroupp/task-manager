@@ -1,5 +1,10 @@
 # Task Manager
 
+## Contact info
+Name: Serkan Bicer
+Mail: serkan_bicer38@hotmail.com
+Phone Number: +905412665130
+
 ## Overview
 
 Task Manager is a web application that allows users to manage their personal or work-related tasks. Built with React and TypeScript, it integrates with a JSONPlaceholder API to simulate a backend service.
@@ -23,7 +28,7 @@ cd task-manager
 npm install
 ```
 
-## Installation
+## How to Run
 
 After installing, you can start the application using:
 

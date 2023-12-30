@@ -7,7 +7,7 @@ Phone Number: +905412665130
 
 ## Overview
 
-Task Manager is a web application that allows users to manage their personal or work-related tasks. Built with React and TypeScript, it integrates with a JSONPlaceholder API to simulate a backend service.
+Task Manager is a web application that allows users to manage tasks. it integrates tasks with a JSONPlaceholder API to simulate a backend service. This project built with React and TypeScript.
 
 ## Features
 
@@ -20,7 +20,7 @@ Task Manager is a web application that allows users to manage their personal or 
 
 ## Installation
 
-To get started with the Task Manager, clone the repository and install the dependencies:
+First, clone the repository and install the dependencies:
 
 ```bash
 git clone https://github.com/your-username/task-manager.git

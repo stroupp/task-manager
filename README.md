@@ -21,11 +21,18 @@ To get started with the Task Manager, clone the repository and install the depen
 git clone https://github.com/your-username/task-manager.git
 cd task-manager
 npm install
+```
 
 ## Installation
 
 After installing, you can start the application using:
+
+```bash
 npm start
+```
 
 After, open this link to open the app in development mode: http://localhost:3000
-```
+
+Here is the main page of the app:
+
+![Logo](src/Screenshot-1.jpg)
